@@ -1,6 +1,7 @@
 # url-shortener
 
 > Shorten a Long URL using the web app.
+> 
 > Gets saved in mongoDB database for quick access
 
 ## Quick Start
