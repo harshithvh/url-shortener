@@ -5,7 +5,7 @@
 > Gets saved in mongoDB database for quick access
 
 ## Quick Start
-Add your mongoDB URI credentials to the config.env file
+Add your MONGO_URI to the .env file
 
 ```
 # Install dependencies
